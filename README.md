@@ -1,2 +1,2 @@
 # PhanaticSumo
-# PhanaticSumo
+The SUMO minigame for PhanaticGames!
